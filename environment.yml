@@ -6,3 +6,4 @@ dependencies:
   - numpy
   - pathlib
   - pandas
+  - openpyxl
