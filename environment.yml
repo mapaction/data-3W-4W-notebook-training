@@ -1,0 +1,8 @@
+name: ma-www-map-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pathlib
+  - pandas
